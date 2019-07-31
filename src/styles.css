@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.grey-container {
+  background-color: rgba(34, 33, 33, 0.05);
+  padding: 2%;
+  border-radius: 3%;
+  height: 100%;
+}
+
+.white-container {
+  height: 100%;
+}
+
+.delete-button {
+  float: right;
+}
